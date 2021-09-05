@@ -1,0 +1,8 @@
+[package]
+name = "mbl_workshop"
+version = "0.1"
+lean_version = "leanprover-community/lean:3.32.1"
+path = "src"
+
+[dependencies]
+mathlib = {git = "https://github.com/leanprover-community/mathlib", rev = "1dddd7f96cd2858fde582dc595d65264e1a74249"}
