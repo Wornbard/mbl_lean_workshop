@@ -34,13 +34,11 @@ variables (P Q R : Prop)
 
 -- ### Introductory examples with implies (→)
 
---Exciting stuff
 theorem id : P → P :=
 begin
   -- let hP be a proof of P
   intro hP,
   -- then hP is a proof of P!
-  -- Did I mention it's going to be an easy class?
   exact hP
 end
 

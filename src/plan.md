@@ -10,11 +10,10 @@
 ```
 ⊢ (P ∨ Q) ↔ (¬P → Q)
 ```
-This may be a good time to mention that languages such as Lean are currently not very powerful.
 
 ## Day 2
 
-1. Time to do (almost) serious mathematics. My plan is to show that there exists a bijection between equivalence relations and partitions on any set. **If there is a result that someone would really like to show, we can discuss it after the 1<sup>st</sup> day. We will think if it's feasible and maybe try doing that instead/afterwards.**
+1. Time to do serious mathematics. My plan is to show that there exists a bijection between equivalence relations and partitions on any set. **If there is a result that someone would really like to show, we can discuss it after the 1<sup>st</sup> day. We will think if it's feasible and maybe try doing that instead/afterwards.**
 
 2. If there is time left, we will talk about type theory (which Lean is based on) and how it differs from set theory. Understanding this should clarify a lot of notation used in the language.
 
