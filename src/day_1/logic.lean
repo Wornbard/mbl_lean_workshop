@@ -2,15 +2,6 @@
 import tactic
 
 /-
-# Disclaimer
-The contents of most of the files in the workshop are HEAVILY inspired
-by another workshop held by prof. Kevin Buzzard.
-In fact it's a rather small subset of that workshop.
-You can find it here : https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/
-For anyone interested, I strongly recommend checking out the whole website.
--/
-
-/-
  Since it's the easiest thing to start with, we first develop basic logic.
  
  # The logical symbols that Lean understands :

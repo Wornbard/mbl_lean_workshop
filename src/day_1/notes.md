@@ -336,3 +336,7 @@ When faced with a goal like
 ```
 ⊢ x ∈ X
 ```
+
+# Type theory
+
+TODO
