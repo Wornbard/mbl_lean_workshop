@@ -321,22 +321,6 @@ into the two cases where either `P` is true, or `¬P` is true.
 The `by_cases h : P` tactic does just this; it turns one goal
 into two, one with `h : P` and the other with `h : ¬P`.
 
-## Part B : sets
-
-### The `use` tactic
-
-When faced with a goal like
-
-```
-⊢ ∃ a, a ∈ X
-```
-
-, if you have a term `x` which you want to use for `a`, you can make progress with `use x,`. The goal will become
-
-```
-⊢ x ∈ X
-```
-
 # Type theory
 
 TODO
